@@ -1,0 +1,11 @@
+{
+  "main": "index.js",
+  "scripts": {
+  	"serve":"node ./"
+  },
+  "dependencies": {
+    "node-cron": "^3.0.2",
+    "sqlite3": "^5.1.4",
+    "sqlstring": "^2.3.3"
+  }
+}
